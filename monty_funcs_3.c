@@ -1,4 +1,4 @@
-/*
+/
  * File: monty_funcs_3.c
  */
 
