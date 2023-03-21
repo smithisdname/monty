@@ -1,4 +1,4 @@
-/
+/*
  * File: errors_1.c
  */
 
